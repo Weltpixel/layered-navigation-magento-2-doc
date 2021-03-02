@@ -1,11 +1,11 @@
-<h1><a href="https://www.weltpixel.com/improved-magento-2-layered-navigation-ajax-filter-multi-select-price-slider.html">Magento 2 Layered Navigation Ajax Filter With Multi Select by Weltpixel.</a></h1>
+<h1><a href="https://www.weltpixel.com/improved-magento-2-layered-navigation-ajax-filter-multi-select-price-slider.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Layered Navigation Ajax Filter With Multi Select by Weltpixel.</a></h1>
 <br/><br/>
 <table>
  <tr>
   <td width="30%" valign="center" style="
     border: none;
-"><br><a href="https://www.weltpixel.com/improved-magento-2-layered-navigation-ajax-filter-multi-select-price-slider.html"><img src="https://www.weltpixel.com/media/catalog/product/2/2/22._layered_navigation_frontend_1_1.png" alt="Layered Navigation Ajax Filter With Multi Select"></a>
-<br><a href="https://www.weltpixel.com"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
+"><br><a href="https://www.weltpixel.com/improved-magento-2-layered-navigation-ajax-filter-multi-select-price-slider.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/catalog/product/2/2/22._layered_navigation_frontend_1_1.png" alt="Layered Navigation Ajax Filter With Multi Select"></a>
+<br><a href="https://www.weltpixel.com?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
   <td style="border:none;"><br>
   <h1>WHAT IS THE MAGENTO LAYERED NAVIGATION?</h1>
   <p>
@@ -171,8 +171,8 @@ The above implementation helped rank our Enterprise Customers on top 3 position 
     <video src="https://www.weltpixel.com/media/wysiwyg/product-layered-navigation/fly-out-design.mp4 " autoplay="" loop="" muted="" type="video/mp4" preload="auto" class="box-shadow"></video>
     <h2>Slide Down Design Horizontal Filtering. Price Slider and Filter Search Box.</h2>
 <video src="https://www.weltpixel.com/media/wysiwyg/product-layered-navigation/slide-down-design.mp4 " autoplay="" loop="" muted="" type="video/mp4" preload="auto" class="box-shadow"></video>
-                        <h3>Download Here: <a href="https://www.weltpixel.com/improved-magento-2-layered-navigation-ajax-filter-multi-select-price-slider.html">Magento 2 Layered Navigation Ajax Filter With Multi Select by WeltPixel.</a></h3>
-                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl">Pearl Theme for Magento 2.</a></h3>
+                        <h3>Download Here: <a href="https://www.weltpixel.com/improved-magento-2-layered-navigation-ajax-filter-multi-select-price-slider.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Layered Navigation Ajax Filter With Multi Select by WeltPixel.</a></h3>
+                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Pearl Theme for Magento 2.</a></h3>
                            </div></td>
  </tr>
 </table>
@@ -360,8 +360,8 @@ The above implementation helped rank our Enterprise Customers on top 3 position 
                         </ul> 
                         <h1>Magento Marketplace Installation.</h1>
                             <ul>
-                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
-                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
+                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
+                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
                                                                                                                                <tr>
   <td width="100%">
       <div class="col-md-6">
@@ -376,7 +376,7 @@ The above implementation helped rank our Enterprise Customers on top 3 position 
 </li>
 <li>
 <strong>Enable Ajax [Yes / No]</strong> - Ajax Filter eliminates the need of a full page refresh so your customers can experience a much faster and smoother transition while applying each filter.
-	</li>
+  </li>
 </ul>
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-layered-navigation/general-settings.png"></p>
 </div>
@@ -602,4 +602,4 @@ Select the desired <strong>attribute</strong>
   </td>
  </tr>
 </table>
- <h3>Download it now! <a href="https://www.weltpixel.com/improved-magento-2-layered-navigation-ajax-filter-multi-select-price-slider.html">Magento 2 Layered Navigation Ajax Filter With Multi Select by WeltPixel.</a></h3>
+ <h3>Download it now! <a href="https://www.weltpixel.com/improved-magento-2-layered-navigation-ajax-filter-multi-select-price-slider.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Layered Navigation Ajax Filter With Multi Select by WeltPixel.</a></h3>
